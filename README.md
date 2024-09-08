@@ -14,15 +14,27 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor júnior estudante da **A
 - NodeJS
 - Python
 
-## 🌟 O que eu estou fazendo
+**Tecnologias:** 🖨️
+- Github
+- VsCode
+- Figma
+- Adobe Illustrator
+- Postman
+
+## 📖 O que estou aprendendo: 
+- Aprofundando em **TypeScript**
+- **Angular**
+- Aprofundadno em **Python** e praticando **Lógica de Programação**
+
+## 🌟 O que eu estou fazendo:
 
 Atualmente, estou focado em desenvolver projetos pessoais e acadêmicos que desafiem minhas habilidades e me ajudem a crescer como desenvolvedor. Sinta-se à vontade para explorar meus repositórios e dar feedback! 😸
 
-## 🎯 Objetivo
+## 🎯 Objetivo:
 
 Meu objetivo é mostrar minhas habilidades e compartilhar minha trajetória como desenvolvedor. Se você está interessado em colaborar ou apenas quer conversar sobre tecnologia, estou sempre aberto a novas conexões! 🤝
 
-## 📫 Entre em contato
+## 📫 Entre em contato:
 
 Você pode me encontrar em:
 
