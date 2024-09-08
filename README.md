@@ -23,7 +23,7 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor júnior estudante da **A
 
 ## 📖 O que estou aprendendo: 
 - Aprofundando em **TypeScript**
-- **Angular**
+- Frameworks **Angular** e **React**
 - Aprofundadno em **Python** e praticando **Lógica de Programação**
 
 ## 🌟 O que eu estou fazendo:
