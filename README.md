@@ -1,6 +1,6 @@
 # Olá, eu sou Bernardo 👋
 
-Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor júnior estudante da **Alura** e **PUCRS**, apaixonado por criar soluções inovadoras e aprender novas tecnologias. Meu foco está em projetos de frontend e backend, e estou sempre buscando desafios para aprimorar minhas habilidades.
+Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor front-end estudante da **Alura** e **PUCRS**, apaixonado por criar soluções inovadoras e aprender novas tecnologias. Meu foco está em projetos de frontend e estou sempre buscando desafios para aprimorar minhas habilidades.
 
 ## 🚀 Minhas Habilidades
 
