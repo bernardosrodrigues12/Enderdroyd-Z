@@ -2,8 +2,8 @@
 
 Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor Front-End estudante da **Alura** e **PUCRS**, apaixonado por criar soluções inovadoras e aprender novas tecnologias. Meu foco está em projetos de Front-End e estou sempre buscando desafios para aprimorar minhas habilidades.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Enderdroyd-Z&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enderdroyd-Z&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bernardosrodrigues12&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bernardosrodrigues12&layout=compact)
 
 ## 🚀 Minhas Habilidades: 
 
